@@ -48,7 +48,7 @@ This device uses USB to comunicate with FreeCAD, in order to make it happend, yo
 
 * https://forum.freecadweb.org/viewtopic.php?f=24&t=54367
 
-## Importan note about files inside **hardware/3dmodel**
+## Important note about files inside **hardware/3dmodel**
 
 Files inside `hardware/3dmodel` requires:
 * FreeCAD 0.19_pre+
