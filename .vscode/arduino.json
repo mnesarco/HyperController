@@ -1,0 +1,7 @@
+{
+    "port": "/dev/ttyACM0",
+    "board": "arduino:avr:micro",
+    "sketch": "firmware/HyperController.ino",
+    "output": "build",
+    "arduino.defaultBaudRate": 115200
+}

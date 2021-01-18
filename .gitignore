@@ -1,0 +1,4 @@
+build/
+.vscode/c_cpp_properties.json
+.vscode/license-template.txt
+.vscode/settings.json
