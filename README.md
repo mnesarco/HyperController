@@ -48,12 +48,23 @@ This device uses USB to comunicate with FreeCAD, in order to make it happend, yo
 
 * https://forum.freecadweb.org/viewtopic.php?f=24&t=54367
 
-## Important note about files inside **hardware/3dmodel**
+## Important notes about files inside **hardware/3dmodel**
 
 Files inside `hardware/3dmodel` requires:
 * FreeCAD 0.19_pre+
 * Assembly4 Workbench (https://github.com/Zolko-123/FreeCAD_Assembly4)
-* Mnesarco's Utils Extension Packs (https://github.com/mnesarco/FreeCAD_Utils)
+* Mnesarco Utils Extension Pack (https://github.com/mnesarco/FreeCAD_Utils)
+
+
+## Parts
+
+|Image |Description  |Optional
+|------|-------------|--------
+|![Joystick]((https://github.com/mnesarco/HyperController/raw/main/_web/joystick.jpg))|2 Joystick modules|
+|![Push Button]((https://github.com/mnesarco/HyperController/raw/main/_web/push_button.jpg))|1-3 Push buttons|
+|![Arduino Pro Micro]((https://github.com/mnesarco/HyperController/raw/main/_web/arduino_pro_micro.jpg))|1 Arduino Pro Micro|
+|![Potentiometers]((https://github.com/mnesarco/HyperController/raw/main/_web/pot.jpg))|0-3 Potentiometers|Optional
+
 
 ## Notices
 
