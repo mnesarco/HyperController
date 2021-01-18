@@ -5,7 +5,8 @@ Arduino based device for 3D space navigation and manipulation inside FreeCAD and
 This stated as a weekend project for my own usage, but the outcome was so satisfiying so 
 I am releasing it as Open Hardware with love to the FreeCAD Community.
 
-![image](https://github.com/mnesarco/HyperController/raw/main/_web/hyperc.png)
+[![image](https://github.com/mnesarco/HyperController/raw/main/_web/hyperc.png)](https://www.youtube.com/watch?v=o9VPcpPox0Q)
+[View on youtube.com](https://www.youtube.com/watch?v=o9VPcpPox0Q)
 
 ## Project Status
 
@@ -30,6 +31,7 @@ https://github.com/mnesarco/HyperController/raw/main/hardware/schema.pdf
   * `config.hpp` contains all configurations.
   * `HyperController.ino` is the main arduino sketch.
   * Everything else are utilities.
+
 
 ## FreeCAD Integration
 
