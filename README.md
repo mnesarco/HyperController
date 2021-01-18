@@ -12,6 +12,11 @@ I am releasing it as Open Hardware with love to the FreeCAD Community.
 
 This project is in its infancy, currently it is just the result of a weekend project.
 
+## IMPORTANT!!!
+
+This repository is not a FreeCAD extension, this repo contains the Hardware and Firmware part of the HyperController. The required FreeCAD extension is [Mnesarco Utils](https://github.com/mnesarco/FreeCAD_Utils), you must install it from: https://github.com/mnesarco/FreeCAD_Utils
+
+
 ## Features/Goals
 
 * Keep the hand in rest position all the time
