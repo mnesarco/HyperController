@@ -48,6 +48,13 @@ This device uses USB to comunicate with FreeCAD, in order to make it happend, yo
 
 * https://forum.freecadweb.org/viewtopic.php?f=24&t=54367
 
+## Importan note about files inside **hardware/3dmodel**
+
+Files inside `hardware/3dmodel` requires:
+* FreeCAD 0.19_pre+
+* Assembly4 Workbench (https://github.com/Zolko-123/FreeCAD_Assembly4)
+* Mnesarco's Utils Extension Packs (https://github.com/mnesarco/FreeCAD_Utils)
+
 ## Notices
 
 * ARDUINO&reg; and other Arduino brands and logos are Trademarks of Arduino SA.
