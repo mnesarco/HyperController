@@ -44,6 +44,10 @@ This device uses USB to comunicate with FreeCAD, in order to make it happend, yo
 3. If you redistribute this project or any of its parts, you must include a copyright notice: **Copyright (c) 2020 Frank D. Martinez M.** and a link to this repository: https://github.com/mnesarco/HyperController.git
 4. You must not modify the copyright info inside the source files.
 
+## Forum threads
+
+* https://forum.freecadweb.org/viewtopic.php?f=24&t=54367
+
 ## Notices
 
 * ARDUINO&reg; and other Arduino brands and logos are Trademarks of Arduino SA.
