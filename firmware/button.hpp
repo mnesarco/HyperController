@@ -19,7 +19,6 @@
 #ifndef MNESARCO_3DM_BUTTON_H
 #define MNESARCO_3DM_BUTTON_H
 
-#include "config.hpp"
 #include "serial.hpp"
 
 // +--------------------------------------------------------------------------+

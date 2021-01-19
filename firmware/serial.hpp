@@ -20,8 +20,6 @@
 #ifndef MNESARCO_3DM_SERIAL_H
 #define MNESARCO_3DM_SERIAL_H
 
-#include "config.hpp"
-
 // +--------------------------------------------------------------------------+
 // | Serial communitation functions                                           |
 // +--------------------------------------------------------------------------+

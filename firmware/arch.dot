@@ -1,0 +1,28 @@
+digraph HyperController {
+
+    rankdir=LR
+
+    hc [label="HyperController.ino\n<<Main Sketch>>", color="red"];
+    conf [label="config.hpp\n<<Configuration>>", color="red"];
+
+    {rank=same; hc -> conf }
+
+    hc -> {
+        cmd, j, knob, serial, btn
+    };
+
+    subgraph cluster0 {
+        label="Reusable Classes/Utilities";
+        style="dashed";
+        color="gray";
+        rankdir=TB
+        btn [label="button.hpp\n<<Push Button>>"];
+        cmd [label="command.hpp\n<<Input Command>>"];
+        j [label="joystick.hpp\n<<Joystick>>"];
+        knob [label="knob.hpp\n<<Potentiometer>>"];
+        serial [label="serial.hpp\n<<USB/Serial Protocol>>"];
+    }
+
+    {btn, j, knob} -> serial;
+
+}
