@@ -1,6 +1,6 @@
 ## 3D Model
 
-This directory contains a FreeCAD file: `base.FCStd` which is an enclosure prototype. It was created with **FreeCAD 0.19_pre+**, **Assembly4**, and **Mnesarco Utils**, so in order to open it, you need to have those installed.
+This directory contains a FreeCAD file: `base1.FCStd` which is an enclosure prototype. It was created with **FreeCAD 0.19_pre+**, **Assembly4**, and **Mnesarco Utils**, so in order to open it, you need to have those installed.
 
 <img src="https://github.com/mnesarco/HyperController/raw/main/_web/enclosure.png" width="400" />
 
