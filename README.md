@@ -68,7 +68,7 @@ Files inside `hardware/3dmodel` requires:
 |<img src="https://github.com/mnesarco/HyperController/raw/main/_web/joystick.jpg" width="200" />|2 Joystick modules|
 |<img src="https://github.com/mnesarco/HyperController/raw/main/_web/push_button.jpg" width="200" />|1-3 Push buttons|
 |<img src="https://github.com/mnesarco/HyperController/raw/main/_web/arduino_pro_micro.jpg" width="200" />|1 Arduino Pro Micro|
-|<img src="https://github.com/mnesarco/HyperController/raw/main/_web/pot.jpg" width="200" />|0-3 Potentiometers|Optional
+|<img src="https://github.com/mnesarco/HyperController/raw/main/_web/pot.jpg" width="200" />|0-3 Potentiometers (Value: between 10k and 50k are ok)|Optional
 
 
 ## Notices
